@@ -1,17 +1,17 @@
-# 🦁 Kaplan Esports - PUBG Mobile Hassasiyet Merkezi
+#  Kaplan Esports - PUBG Mobile Hassasiyet Merkezi
 
 YouTube kanalımda paylaştığım en güncel **Sıfır Sekme (Zero Recoil)** ayarları ve hassasiyet kodları bu sayfada yer almaktadır. 
 
 ---
 
-## 🔥 Güncel Hassasiyet Kodu
-> **KOD:** `Buraya Güncel Kodunu Yaz`  
+##  Güncel Hassasiyet Kodu
+> **KOD:** `1-7615-8241-6390-1021-113`  
 > *(Son Güncelleme: 27 Nisan 2026)*
 
 ---
 
 ## 📱 Cihaz ve Parmak Ayarları
-- **Cihaz:** [Senin Cihazın Buraya]
+- **Cihaz:** [Android]
 - **Kontrol:** 4 Parmak + Tam Jiroskop
 - **Grafikler:** Akıcı + 90/120 FPS
 
@@ -33,7 +33,7 @@ YouTube kanalımda paylaştığım en güncel **Sıfır Sekme (Zero Recoil)** ay
 ## 📺 Uygulamalı Anlatım (YouTube)
 Bu ayarların nasıl yapıldığını ve testlerini izlemek için kanalıma beklerim:
 
-👉 [Kaplan Esports YouTube Kanalı](https://youtube.com)
+👉 [Kaplan Esports YouTube Kanalı](https://youtube.com/@kaplanesport?si=Ezo_zNmnHTfi1JnN)
 
 ---
 
